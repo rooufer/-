@@ -1,18 +1,20 @@
 ---
-title: '教程测试'
+title: '教程'
 date: '2021-06-04 11:27'
 tags: '认命可以'
-photos: https://z3.ax1x.com/2021/05/30/2ZuahF.jpg
+photos: https://z3.ax1x.com/2021/06/01/2KJ6YQ.md.jpg
 ---
 
 ### 注意标题格式
 
 ```
+---
 title: '躺平测试' 
 date: '2021-05-29 11:27'
 tags: '认命可以'
 photos: https://z3.ax1x.com/2021/05/30/2ZuahF.jpg
 top: true
+---
 ```
 如上分别为标题，发布日期，标签，预览图片，是否置顶。更多配置可以参见[paper模版配置项目](https://github.com/random-yang/paper)
 
