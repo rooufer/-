@@ -11,4 +11,4 @@ categories:
 date: 2017-07-11 12:11:25
 ---
 
-[![被玩坏的杨导](http://photo.guolaijie.com/rooufer/uploads/2017/07/被玩坏的杨导.jpg)](http://photo.guolaijie.com/rooufer/uploads/2017/07/被玩坏的杨导.jpg)
+[![被玩坏的杨导](/images/uploads/2017/07/被玩坏的杨导.jpg)](/images/uploads/2017/07/被玩坏的杨导.jpg)

@@ -12,4 +12,4 @@ categories:
 date: 2013-12-19 16:02:39
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/12/果果第334天.jpg "果果第334天")](http://photo.guolaijie.com/rooufer/uploads/2013/12/果果第334天.jpg)
+[![](/images/uploads/2013/12/果果第334天.jpg "果果第334天")](/images/uploads/2013/12/果果第334天.jpg)

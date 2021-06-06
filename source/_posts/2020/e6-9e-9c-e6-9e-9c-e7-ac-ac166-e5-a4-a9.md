@@ -12,4 +12,4 @@ categories:
 date: 2013-07-04 17:19:27
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果诞生第166天.jpg "果果诞生第166天")](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果诞生第166天.jpg)
+[![](/images/uploads/2013/07/果果诞生第166天.jpg "果果诞生第166天")](/images/uploads/2013/07/果果诞生第166天.jpg)

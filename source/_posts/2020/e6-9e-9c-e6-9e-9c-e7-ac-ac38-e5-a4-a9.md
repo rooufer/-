@@ -12,4 +12,4 @@ categories:
 date: 2013-02-27 22:28:26
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/03/果果诞生第38天.jpg "果果诞生第38天")](http://photo.guolaijie.com/rooufer/uploads/2013/03/果果诞生第38天.jpg)
+[![](/images/uploads/2013/03/果果诞生第38天.jpg "果果诞生第38天")](/images/uploads/2013/03/果果诞生第38天.jpg)

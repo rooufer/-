@@ -11,4 +11,4 @@ categories:
 date: 2013-02-08 18:10:19
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/02/果果第19天大图贴.jpg "果果第19天大图贴")](http://photo.guolaijie.com/rooufer/uploads/2013/02/果果第19天大图贴.jpg)
+[![](/images/uploads/2013/02/果果第19天大图贴.jpg "果果第19天大图贴")](/images/uploads/2013/02/果果第19天大图贴.jpg)

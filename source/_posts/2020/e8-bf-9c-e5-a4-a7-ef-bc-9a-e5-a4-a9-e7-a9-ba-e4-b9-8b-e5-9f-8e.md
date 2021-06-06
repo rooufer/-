@@ -12,4 +12,4 @@ categories:
 date: 2012-12-21 15:05:34
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2012/12/天空之城.jpg "天空之城")](http://photo.guolaijie.com/rooufer/uploads/2012/12/天空之城.jpg)
+[![](/images/uploads/2012/12/天空之城.jpg "天空之城")](/images/uploads/2012/12/天空之城.jpg)

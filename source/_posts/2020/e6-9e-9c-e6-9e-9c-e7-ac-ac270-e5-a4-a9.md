@@ -12,4 +12,4 @@ categories:
 date: 2013-10-16 14:37:08
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/11/果果第270天.jpg "果果第270天")](http://photo.guolaijie.com/rooufer/uploads/2013/11/果果第270天.jpg)
+[![](/images/uploads/2013/11/果果第270天.jpg "果果第270天")](/images/uploads/2013/11/果果第270天.jpg)

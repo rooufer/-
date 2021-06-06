@@ -12,4 +12,4 @@ categories:
 date: 2013-06-14 21:32:25
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/06/果果诞生第146天.jpg "果果诞生第146天")](http://photo.guolaijie.com/rooufer/uploads/2013/06/果果诞生第146天.jpg)
+[![](/images/uploads/2013/06/果果诞生第146天.jpg "果果诞生第146天")](/images/uploads/2013/06/果果诞生第146天.jpg)

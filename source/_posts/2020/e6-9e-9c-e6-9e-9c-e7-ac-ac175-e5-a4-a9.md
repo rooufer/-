@@ -12,4 +12,4 @@ categories:
 date: 2013-07-13 16:33:58
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果第175天.jpg "果果第175天")](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果第175天.jpg)
+[![](/images/uploads/2013/07/果果第175天.jpg "果果第175天")](/images/uploads/2013/07/果果第175天.jpg)

@@ -12,4 +12,4 @@ categories:
 date: 2013-05-27 22:19:39
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/06/果果诞生第128天.jpg "果果诞生第128天")](http://photo.guolaijie.com/rooufer/uploads/2013/06/果果诞生第128天.jpg)
+[![](/images/uploads/2013/06/果果诞生第128天.jpg "果果诞生第128天")](/images/uploads/2013/06/果果诞生第128天.jpg)

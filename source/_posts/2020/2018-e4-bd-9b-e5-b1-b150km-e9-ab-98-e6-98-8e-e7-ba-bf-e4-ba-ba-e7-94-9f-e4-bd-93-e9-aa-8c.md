@@ -13,7 +13,7 @@ categories:
 date: 2018-03-31 22:40:43
 ---
 
-![20180331佛山50km高明线体验](http://photo.guolaijie.com/rooufer/uploads/2018/04/20180331佛山50km高明线体验.jpg)
+![20180331佛山50km高明线体验](/images/uploads/2018/04/20180331佛山50km高明线体验.jpg)
 
 **2018佛山50km高明线人生体验**
 

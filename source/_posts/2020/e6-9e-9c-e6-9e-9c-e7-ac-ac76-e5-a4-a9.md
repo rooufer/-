@@ -12,4 +12,4 @@ categories:
 date: 2013-04-05 23:58:10
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/04/果果诞生第76天.jpg "果果诞生第76天")](http://photo.guolaijie.com/rooufer/uploads/2013/04/果果诞生第76天.jpg)
+[![](/images/uploads/2013/04/果果诞生第76天.jpg "果果诞生第76天")](/images/uploads/2013/04/果果诞生第76天.jpg)

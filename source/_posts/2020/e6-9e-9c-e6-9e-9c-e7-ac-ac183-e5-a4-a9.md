@@ -12,4 +12,4 @@ categories:
 date: 2013-07-21 18:46:12
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果诞生第183-2.jpg "果果诞生第183-2")](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果诞生第183-2.jpg)
+[![](/images/uploads/2013/07/果果诞生第183-2.jpg "果果诞生第183-2")](/images/uploads/2013/07/果果诞生第183-2.jpg)

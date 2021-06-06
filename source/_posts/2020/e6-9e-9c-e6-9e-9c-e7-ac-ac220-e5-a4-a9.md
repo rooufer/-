@@ -12,4 +12,4 @@ categories:
 date: 2013-08-27 13:29:43
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/09/果果第220天.jpg "果果第220天")](http://photo.guolaijie.com/rooufer/uploads/2013/09/果果第220天.jpg)
+[![](/images/uploads/2013/09/果果第220天.jpg "果果第220天")](/images/uploads/2013/09/果果第220天.jpg)

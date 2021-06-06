@@ -11,7 +11,7 @@ categories:
 date: 2016-09-04 16:40:48
 ---
 
-[![G20杭州峰会](http://photo.guolaijie.com/rooufer/uploads/2016/09/G20杭州峰会.jpg)](http://photo.guolaijie.com/rooufer/uploads/2016/09/G20杭州峰会.jpg)
+[![G20杭州峰会](/images/uploads/2016/09/G20杭州峰会.jpg)](/images/uploads/2016/09/G20杭州峰会.jpg)
 
 **G20杭州峰会开幕致辞** 中华人民共和国主席 习近平
 

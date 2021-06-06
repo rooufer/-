@@ -12,7 +12,7 @@ categories:
 date: 2017-06-10 14:54:29
 ---
 
-[![一边享受 一边惆怅 生活继续 生死继续](http://photo.guolaijie.com/rooufer/uploads/2017/06/一边享受-一边惆怅-生活继续-生死继续.jpg)](http://photo.guolaijie.com/rooufer/uploads/2017/06/一边享受-一边惆怅-生活继续-生死继续.jpg)
+[![一边享受 一边惆怅 生活继续 生死继续](/images/uploads/2017/06/一边享受-一边惆怅-生活继续-生死继续.jpg)](/images/uploads/2017/06/一边享受-一边惆怅-生活继续-生死继续.jpg)
 
 _一边享受 一边惆怅 生活继续 生死继续_
 

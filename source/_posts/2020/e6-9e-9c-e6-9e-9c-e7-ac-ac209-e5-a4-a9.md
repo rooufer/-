@@ -12,4 +12,4 @@ categories:
 date: 2013-08-16 20:37:43
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/08/果果第209天1.jpg "果果第209天")](http://photo.guolaijie.com/rooufer/uploads/2013/08/果果第209天1.jpg)
+[![](/images/uploads/2013/08/果果第209天1.jpg "果果第209天")](/images/uploads/2013/08/果果第209天1.jpg)

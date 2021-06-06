@@ -11,4 +11,4 @@ categories:
 date: 2013-01-26 12:30:39
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/01/果果第6天.jpg "果果第6天")](http://photo.guolaijie.com/rooufer/uploads/2013/01/果果第6天.jpg)
+[![](/images/uploads/2013/01/果果第6天.jpg "果果第6天")](/images/uploads/2013/01/果果第6天.jpg)

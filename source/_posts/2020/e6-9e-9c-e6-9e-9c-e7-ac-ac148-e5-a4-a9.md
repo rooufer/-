@@ -12,4 +12,4 @@ categories:
 date: 2013-06-16 21:41:18
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/06/果果诞生第148天.jpg "果果诞生第148天")](http://photo.guolaijie.com/rooufer/uploads/2013/06/果果诞生第148天.jpg)
+[![](/images/uploads/2013/06/果果诞生第148天.jpg "果果诞生第148天")](/images/uploads/2013/06/果果诞生第148天.jpg)

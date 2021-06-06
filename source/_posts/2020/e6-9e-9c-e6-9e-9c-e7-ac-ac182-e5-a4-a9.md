@@ -12,4 +12,4 @@ categories:
 date: 2013-07-19 18:22:27
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果诞生第181天.jpg "果果诞生第181天")](http://photo.guolaijie.com/rooufer/uploads/2013/07/果果诞生第181天.jpg)
+[![](/images/uploads/2013/07/果果诞生第181天.jpg "果果诞生第181天")](/images/uploads/2013/07/果果诞生第181天.jpg)

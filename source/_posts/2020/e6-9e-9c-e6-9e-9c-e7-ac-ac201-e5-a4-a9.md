@@ -13,7 +13,7 @@ categories:
 date: 2013-08-08 18:59:48
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/08/果果第201天.jpg "果果第201天")](http://photo.guolaijie.com/rooufer/uploads/2013/08/果果第201天.jpg)
+[![](/images/uploads/2013/08/果果第201天.jpg "果果第201天")](/images/uploads/2013/08/果果第201天.jpg)
 
 **问自己**
 

@@ -12,4 +12,4 @@ categories:
 date: 2013-02-12 15:46:28
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/02/果果诞生23天.jpg "果果诞生23天")](http://photo.guolaijie.com/rooufer/uploads/2013/02/果果诞生23天.jpg)
+[![](/images/uploads/2013/02/果果诞生23天.jpg "果果诞生23天")](/images/uploads/2013/02/果果诞生23天.jpg)

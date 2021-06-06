@@ -12,4 +12,4 @@ categories:
 date: 2013-05-18 14:16:21
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/05/果果诞生第119天.jpg "果果诞生第119天")](http://photo.guolaijie.com/rooufer/uploads/2013/05/果果诞生第119天.jpg)
+[![](/images/uploads/2013/05/果果诞生第119天.jpg "果果诞生第119天")](/images/uploads/2013/05/果果诞生第119天.jpg)

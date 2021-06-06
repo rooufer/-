@@ -12,4 +12,4 @@ categories:
 date: 2013-04-01 23:55:51
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/04/果果诞生第70天.jpg "果果诞生第70天")](http://photo.guolaijie.com/rooufer/uploads/2013/04/果果诞生第70天.jpg)
+[![](/images/uploads/2013/04/果果诞生第70天.jpg "果果诞生第70天")](/images/uploads/2013/04/果果诞生第70天.jpg)

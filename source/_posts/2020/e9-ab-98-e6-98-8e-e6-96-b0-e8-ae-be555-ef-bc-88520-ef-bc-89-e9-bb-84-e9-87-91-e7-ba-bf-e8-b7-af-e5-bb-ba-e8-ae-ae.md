@@ -12,7 +12,7 @@ categories:
 date: 2012-05-22 21:44:35
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2012/05/关于高明新设公交线路555（或520）的建议.jpg "关于高明新设公交线路555（或520）的建议")](http://photo.guolaijie.com/rooufer/uploads/2012/05/关于高明新设公交线路555（或520）的建议.jpg)
+[![](/images/uploads/2012/05/关于高明新设公交线路555（或520）的建议.jpg "关于高明新设公交线路555（或520）的建议")](/images/uploads/2012/05/关于高明新设公交线路555（或520）的建议.jpg)
 
 **高明新设555（或520）“一线二城三园”黄金线路建议**
 

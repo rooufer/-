@@ -11,6 +11,6 @@ categories:
 date: 2012-07-13 10:21:09
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2012/07/碧桂-蝶影-20120712.jpg "碧桂 蝶影 20120712")](http://photo.guolaijie.com/rooufer/uploads/2012/07/碧桂-蝶影-20120712.jpg)
+[![](/images/uploads/2012/07/碧桂-蝶影-20120712.jpg "碧桂 蝶影 20120712")](/images/uploads/2012/07/碧桂-蝶影-20120712.jpg)
 
 **难道这便是传说中“蝶恋花”意境：风花蝶影**

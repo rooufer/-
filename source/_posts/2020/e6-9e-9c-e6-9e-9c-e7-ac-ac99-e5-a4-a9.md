@@ -12,4 +12,4 @@ categories:
 date: 2013-04-28 19:08:25
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/05/果果诞生第99天.jpg "果果诞生第99天")](http://photo.guolaijie.com/rooufer/uploads/2013/05/果果诞生第99天.jpg)
+[![](/images/uploads/2013/05/果果诞生第99天.jpg "果果诞生第99天")](/images/uploads/2013/05/果果诞生第99天.jpg)

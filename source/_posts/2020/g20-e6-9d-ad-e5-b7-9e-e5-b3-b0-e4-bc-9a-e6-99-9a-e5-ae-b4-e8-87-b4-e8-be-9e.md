@@ -9,7 +9,7 @@ id: 2680
 date: 2016-09-04 20:57:21
 ---
 
-[![G20杭州峰会最忆是杭州](http://photo.guolaijie.com/rooufer/uploads/2016/09/G20杭州峰会最忆是杭州.jpg)](http://photo.guolaijie.com/rooufer/uploads/2016/09/G20杭州峰会最忆是杭州.jpg)
+[![G20杭州峰会最忆是杭州](/images/uploads/2016/09/G20杭州峰会最忆是杭州.jpg)](/images/uploads/2016/09/G20杭州峰会最忆是杭州.jpg)
 
 **G20杭州峰会晚宴致辞** 中华人民共和国主席 习近平
 

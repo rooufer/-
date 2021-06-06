@@ -13,7 +13,7 @@ categories:
 date: 2013-12-26 23:47:52
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/12/天安门.jpg "天安门")](http://photo.guolaijie.com/rooufer/uploads/2013/12/天安门.jpg)
+[![](/images/uploads/2013/12/天安门.jpg "天安门")](/images/uploads/2013/12/天安门.jpg)
 
 **在纪念毛泽东诞辰120周年座谈会上讲话** **习近平 20131226**
 

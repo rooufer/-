@@ -12,4 +12,4 @@ categories:
 date: 2013-02-01 21:42:48
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/02/果果第12天.jpg "果果第12天")](http://photo.guolaijie.com/rooufer/uploads/2013/02/果果第12天.jpg)
+[![](/images/uploads/2013/02/果果第12天.jpg "果果第12天")](/images/uploads/2013/02/果果第12天.jpg)

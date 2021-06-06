@@ -12,4 +12,4 @@ categories:
 date: 2013-09-12 14:19:57
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/11/果果第236天.jpg "果果第236天")](http://photo.guolaijie.com/rooufer/uploads/2013/11/果果第236天.jpg)
+[![](/images/uploads/2013/11/果果第236天.jpg "果果第236天")](/images/uploads/2013/11/果果第236天.jpg)

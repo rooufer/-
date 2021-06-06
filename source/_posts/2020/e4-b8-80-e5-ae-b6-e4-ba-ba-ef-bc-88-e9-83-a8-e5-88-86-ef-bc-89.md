@@ -12,4 +12,4 @@ categories:
 date: 2014-02-01 16:24:11
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2014/02/一家人-1.jpg "一家人-1")](http://photo.guolaijie.com/rooufer/uploads/2014/02/一家人-1.jpg)
+[![](/images/uploads/2014/02/一家人-1.jpg "一家人-1")](/images/uploads/2014/02/一家人-1.jpg)

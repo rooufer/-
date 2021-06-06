@@ -12,4 +12,4 @@ categories:
 date: 2013-05-04 19:35:27
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/05/果果诞生第105天.jpg "果果诞生第105天")](http://photo.guolaijie.com/rooufer/uploads/2013/05/果果诞生第105天.jpg)
+[![](/images/uploads/2013/05/果果诞生第105天.jpg "果果诞生第105天")](/images/uploads/2013/05/果果诞生第105天.jpg)

@@ -11,4 +11,4 @@ categories:
 date: 2013-01-21 19:36:51
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/01/果果第1天.jpg "果果第1天")](http://photo.guolaijie.com/rooufer/uploads/2013/01/果果第1天.jpg)
+[![](/images/uploads/2013/01/果果第1天.jpg "果果第1天")](/images/uploads/2013/01/果果第1天.jpg)

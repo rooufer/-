@@ -12,4 +12,4 @@ categories:
 date: 2013-04-19 23:11:08
 ---
 
-[![](http://photo.guolaijie.com/rooufer/uploads/2013/04/果果诞生第90天.jpg "果果诞生第90天")](http://photo.guolaijie.com/rooufer/uploads/2013/04/果果诞生第90天.jpg)
+[![](/images/uploads/2013/04/果果诞生第90天.jpg "果果诞生第90天")](/images/uploads/2013/04/果果诞生第90天.jpg)
